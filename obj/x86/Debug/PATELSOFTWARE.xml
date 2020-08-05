@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PATELSOFTWARE
+</name>
+</assembly>
+<members>
+<member name="T:PATELSOFTWARE.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PATELSOFTWARE.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PATELSOFTWARE.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database11DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database11DataSet.Sheet1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database11DataSet.Sheet1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database11DataSet.Sheet1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database11DataSetTableAdapters.Sheet1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database11DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PATELSOFTWARE.Database11DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PATELSOFTWARE.Database11DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PATELSOFTWARE.Database11DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PATELSOFTWARE.Database11DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PATELSOFTWARE.Database11DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PATELSOFTWARE.Database11DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PATELSOFTWARE.Database11DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PATELSOFTWARE.Database11DataSetTableAdapters.TableAdapterManager.UpdateAll(PATELSOFTWARE.Database11DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database11DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database11DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database1DataSet.Sheet3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database1DataSet.Sheet3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database1DataSet.Sheet3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database1DataSetTableAdapters.Sheet3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PATELSOFTWARE.Database1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PATELSOFTWARE.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PATELSOFTWARE.Database1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PATELSOFTWARE.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PATELSOFTWARE.Database1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PATELSOFTWARE.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PATELSOFTWARE.Database1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PATELSOFTWARE.Database1DataSetTableAdapters.TableAdapterManager.UpdateAll(PATELSOFTWARE.Database1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PATELSOFTWARE.Database1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

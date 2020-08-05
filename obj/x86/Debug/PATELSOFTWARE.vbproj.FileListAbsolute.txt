@@ -1,0 +1,189 @@
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.exe
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.pdb
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.xml
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form1.resources
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form2.resources
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Resources.resources
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.exe
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.xml
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.pdb
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.vbproj.ResolveComReference.cache
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\Database1.accdb
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.exe.config
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\RdlCompile.cache
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\RdlCompile.compiled
+C:\Documents and Settings\user\Desktop\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\Database11.accdb
+D:\SHIPLU123\SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.exe.config
+D:\SHIPLU123\SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\SHIPLU123\SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\SHIPLU123\SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.vbproj.ResolveComReference.cache
+D:\SHIPLU123\SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.exe
+D:\SHIPLU123\SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.xml
+D:\SHIPLU123\SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.pdb
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.exe.config
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.vbproj.ResolveComReference.cache
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.exe
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.xml
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.pdb
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\Database1.accdb
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\Database11.accdb
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.exe
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.pdb
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.xml
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form1.resources
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form2.resources
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Resources.resources
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\RdlCompile.cache
+C:\Documents and Settings\user\Desktop\Done..SBASU FINAL PROJECT\PATELSOFTWARE\PATELSOFTWARE\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.exe.config
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.vbproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.exe
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.xml
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.pdb
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form1.resources
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form2.resources
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Resources.resources
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\RdlCompile.cache
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\bin\Debug\Database1.accdb
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\bin\Debug\Database11.accdb
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.exe
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.pdb
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.xml
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form3.resources
+C:\Users\ADMIN\Desktop\SBSOFTWARE\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form4.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.exe.config
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.vbproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.exe
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.xml
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.pdb
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form4.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form1.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form2.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Form3.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\PATELSOFTWARE.Resources.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\bin\Debug\Database1.accdb
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\bin\Debug\Database11.accdb
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.exe
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.pdb
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\bin\Debug\PATELSOFTWARE.xml
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\PATELSOFTWARE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\bin\Debug\PATELSOFTWARE.exe.config
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.vbproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.exe
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.xml
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.pdb
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\bin\Debug\Database1.accdb
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\bin\Debug\Database11.accdb
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\bin\Debug\PATELSOFTWARE.exe
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\bin\Debug\PATELSOFTWARE.pdb
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\bin\Debug\PATELSOFTWARE.xml
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.Form4.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.Form1.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.Form2.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.Form3.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.Resources.resources
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ADMIN\Desktop\PATELSOFTWARE(Final)\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\bin\Debug\PATELSOFTWARE.exe.config
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\Interop.AcroPDFLib.dll
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.vbproj.ResolveComReference.cache
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.exe
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.xml
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.pdb
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\bin\Debug\Database1.accdb
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\bin\Debug\Database11.accdb
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\bin\Debug\PATELSOFTWARE.exe
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\bin\Debug\PATELSOFTWARE.pdb
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\bin\Debug\PATELSOFTWARE.xml
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\bin\Debug\Interop.AcroPDFLib.dll
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.Form4.resources
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.Form1.resources
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.Form2.resources
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.Form3.resources
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\PATELSOFTWARE.Resources.resources
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Freelancing\SBSOFTWARE\PATELSOFTWARE(Final)\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\Database1.accdb
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\Database11.accdb
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.vbprojAssemblyReference.cache
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.vbproj.ResolveComReference.cache
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.Form4.resources
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.Form1.resources
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.Form2.resources
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.Form3.resources
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.Resources.resources
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.vbproj.GenerateResource.cache
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.vbproj.CoreCompileInputs.cache
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.vbproj.CopyComplete
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.exe
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.xml
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.pdb
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\PATELSOFTWARE.exe.config
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\PATELSOFTWARE.exe
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\PATELSOFTWARE.pdb
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\PATELSOFTWARE.xml
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\Interop.AcroPDFLib.dll
+D:\Surojit\AmbarRoy\SBASU\PATELSOFTWARE(Final) - Copy\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\bin\Debug\Database1.accdb
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\bin\Debug\Database11.accdb
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\bin\Debug\PATELSOFTWARE.exe.config
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\bin\Debug\PATELSOFTWARE.exe
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\bin\Debug\PATELSOFTWARE.pdb
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\bin\Debug\PATELSOFTWARE.xml
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.Form4.resources
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.Form1.resources
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.Form2.resources
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.Form3.resources
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.Resources.resources
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.vbproj.GenerateResource.cache
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.vbproj.CoreCompileInputs.cache
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.vbproj.CopyComplete
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.exe
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.xml
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.pdb
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\bin\Debug\x86\pdfium.dll
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\bin\Debug\PdfiumViewer.dll
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\bin\Debug\PdfiumViewer.xml
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\PatelInfo\AmbarRoy\PATELSOFTWARE(Final) - Copy\obj\x86\Debug\PATELSOFTWARE.vbprojAssemblyReference.cache
